@@ -6,7 +6,7 @@ name: Build and deploy Node.js app to Azure Web App - healthcare-bot-6p63z2oh4ob
 on:
   push:
     branches:
-      - morris_handoff_exp
+      - ck_handoff_im
   workflow_dispatch:
 
 jobs:
